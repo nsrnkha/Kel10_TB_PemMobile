@@ -33,19 +33,19 @@ final List<CategoryModel> expenseCategoryList = [
 final List<TutorialModel> tutorialList = [
   TutorialModel(
     title: "Menambahkan Pengeluaran",
-    subtitle: "Buka halaman utama/Budget Buddy, kemudian tekan tombol plus.",
+    subtitle: "Buka halaman utama/Expense Buddy, kemudian tekan tombol plus.",
     color: Colors.blue.shade400,
   ),
   TutorialModel(
     title: "Mengedit Pengeluaran",
     subtitle:
-        "Buka halaman utama/Budget Buddy, kemudian tap/tekan pengeluaran yang akan diedit.",
+        "Buka halaman utama/Expense Buddy, kemudian tap/tekan pengeluaran yang akan diedit.",
     color: Colors.orange.shade400,
   ),
   TutorialModel(
     title: "Menghapus Pengeluaran",
     subtitle:
-        "Buka halaman utama/Budget Buddy, kemudian long press pada pengeluaran yang akan dihapus.",
+        "Buka halaman utama/Expense Buddy, kemudian long press pada pengeluaran yang akan dihapus.",
     color: Colors.red.shade400,
   ),
 ];
